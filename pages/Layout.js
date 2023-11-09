@@ -6,7 +6,7 @@ import data from "../data"
 
 
 
-const Layout = () => {
+export default function Layout() {
   const dataItems = data.map(item =>{
     return <Card
         key={item.id}
@@ -33,4 +33,3 @@ const Layout = () => {
   )
 };
 
-export default Layout;
