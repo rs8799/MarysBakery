@@ -22,7 +22,7 @@ ul {
     
     /* aligning the content of the <ul> to the end
        of the inline axis: */
-    justify-content: end;
+    justify-content: flex-end;
   }
   
   ul img {
