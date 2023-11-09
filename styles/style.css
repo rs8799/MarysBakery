@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+
+}
+body {
+    background-color: black;
+}
+.aboutMePara {
+   padding: 0 25px;
+   text-align: center;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    margin-top: 10px;
+    padding-right: 5px;
+    overflow: hidden;
+    align-items: center;
+    
+    /* aligning the content of the <ul> to the end
+       of the inline axis: */
+    justify-content: end;
+  }
+  
+  ul img {
+    height: 100px;
+
+  }
+  li {
+    list-style-type: none;
+
+  }
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-shadow:lavender
+  }
+  
+  li:first-child {
+    /* setting the margin of the inline-end of the
+       first-child <li> element to 'auto', in order
+       to push the first-child away from the rest of
+       the content: */
+    margin-inline-end: auto;
+  }
+
+
+.buttonNavWidth {
+    width: 150px;
+    text-align: center;
+}
+
+
+.image-grid{
+    padding: 60px;
+    box-sizing: border-box;
+    display: grid;
+    width: 50%;
+    /*grid-template-columns: repeat(8,1fr);*/
+    /* Replaced by: */
+    grid-template-columns: repeat(4,100px);
+    /*grid-auto-columns: 100px;*/ /* This is useless */
+    grid-auto-rows: 200px;
+    grid-gap: 15px;
+    margin-bottom: 15px;
+    
+   
+}
+
+.image-grid img{
+    margin: 0;
+    padding: 0;
+    width: 100%; /* Shoud be 100% not 70%, width of the column should be manage in the grid container setting */
+    height: 100%;
+    object-fit: cover;
+    /* border: solid red; */
+    border-radius:20px ;
+    
+    margin-right:-30%;
+}
+
+.image-grid img:nth-child(odd){
+    margin-top: 50px;
+}
+
+.image-grid img:nth-child(9){
+    opacity: 0;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    font-family: Poppins, sans-serif;
+}
+
+.gray{
+    color: #918E9B;
+}
+
+.bold{
+    font-weight: 600;
+}
+
+.navMenuButtons{
+    height: 20px;
+}
+nav {
+    height: 80px;
+    display: flex;
+    padding: 20px 36px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.1);
+    background-color: maroon;
+}
+
+section{
+    padding: 20px;
+}
+.container {
+    width:20%;
+}
+.nav--logo {
+    width: 20%;
+}
+
+.hero{
+    padding: 2px 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero--image{
+    max-width: 400px;
+    align-self: center;
+}
+
+.hero--title{
+    padding-top: 16px;
+    margin-bottom: 16px;
+    font-size: 55px;
+    font-weight: 1000;
+    text-align: center;
+    color: white;
+}
+
+.hero--text{
+    margin-top: 0;
+    font-size: 16px;
+    font-weight: 300;
+/*     width: 320px;
+ */    text-align: center;
+ color: white;
+
+}
+
+/* .Hero--title,
+.Hero--text {
+    align-self: left;
+} */
+
+.cards-list{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}
+
+.card{
+    width: 175px;
+    font-size: 12px;
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    border: none;
+}
+
+.card--photo{
+    border-radius: 20px;
+    width: 100%;
+    margin-bottom: 9px;
+
+}
+
+.card--stats{
+    display: flex;
+    align-items: center;
+}
+
+.card--star{
+    height: 12px;
+}
+
+.card--price{
+    margin-top: auto;
+}
+
+.card--badge{
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+    color: #918E9B;
+}
