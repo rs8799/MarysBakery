@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Hero from "./Hero"
 import NavigationBar from "./NavigationBar"
-import Card from "../Card"
+import Card from "./Card"
 import data from "../data"
 
 const HomePage = () => { 
