@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rs8799/MarysBakery">
-    <img src="Marysbakinglogoremovebg.png" alt="Logo" width="80" height="80">
+    <img src="/public/Marysbakinglogoremovebg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
