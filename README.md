@@ -34,19 +34,19 @@
     <img src="/public/Marysbakinglogoremovebg.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Marys Baking</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Baking Excellence
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rs8799/MarysBakery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/rs8799/MarysBakery/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/rs8799/MarysBakerye/issues">Request Feature</a>
   </p>
 </div>
 

@@ -4,7 +4,6 @@ import Logo from "../assets/Marysbakinglogoremovebg.png"
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import { NavLink } from "react-router-dom";
 import Hero from "../components/Hero"
 import Card from "../components/Card"
 import data from "../data"
@@ -28,19 +27,7 @@ const Layout = () => {
 
     <Container>
       <Nav className="me-auto navButton">
-<Link to={/Formpage}>Order Form</Link>
-      
-      {/*  <Link to="/AboutUs">About Us</Link> */}
-        {/* <Nav.Link href="#home">Home</Nav.Link> */}
-       {/*  <NavLink
-          className="navbar-item"
-          activeClassName="is-active"
-          to="/Formpage"
-        >
-          Form
-        </NavLink> */}
-        {/* <Nav.Link className="buttonNavWidth" href="#features">Order Form</Nav.Link>
-        <Nav.Link className="buttonNavWidth" href="#pricing">Contact Us</Nav.Link> */}
+<Link to="/Formpage">Order Form</Link>
       </Nav>
     </Container>
   </Navbar>
