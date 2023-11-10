@@ -83,4 +83,16 @@ export default [
         location: "In Stock",
         openSpots: 4
     },
+    {
+        id: 3,
+        title: "Black Forest Cake",
+        price: 10,
+        coverImg: "cake.jpg",
+        stats: {
+            rating: 4.9,
+            reviewCount: 50
+        },
+        location: "In Stock",
+        openSpots: 4
+    },
 ]
