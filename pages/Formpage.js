@@ -18,7 +18,7 @@ export default function Formpage(){
     <section id="footer">
 				<div class="container">
 					<header class="major">
-						<h2>Order Form</h2>
+						<h2 class="orderTitle">Order Form</h2>
 					</header>
 					<form method="post" action="#">
 						<div class="row gtr-uniform">

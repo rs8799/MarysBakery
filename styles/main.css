@@ -32,7 +32,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.orderTitle {
+	color: black;
+}
 ol, ul {
 	list-style: none;
 }
@@ -2676,10 +2678,10 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cd1a8;
+			background-color: maroon;
 			border: 0;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: black !important;
 		}
 
 			input[type="submit"].primary:hover,
