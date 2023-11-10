@@ -102,7 +102,7 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
 <!-- ### Installation
 
@@ -133,7 +133,7 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ``` -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@raylsanford](https://twitter.com/raylsanford) - raylsanford@gmail.com
+Ray Sanford - [@raylsanford](https://twitter.com/raylsanford) - raylsanford@gmail.com
 
 Project Link: [https://github.com/rs8799/MarysBakery](https://github.com/rs8799/MarysBakery)
 
