@@ -42,7 +42,7 @@
     <a href="https://github.com/rs8799/MarysBakery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://marys-bakery.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/rs8799/MarysBakery/issues">Report Bug</a>
     ·
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Mary's Bakery][/screenshot.png]](https://marys-bakery.vercel.app)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
