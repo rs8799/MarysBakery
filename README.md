@@ -37,7 +37,7 @@
   <h3 align="center">Mary's Baking</h3>
 
   <p align="center">
-    A e-commerce website geared towards helping Mary sell her baked goods. Users have the ability to submit orders as well as see product availability, pricing and rating. 
+    A full-stack e-commerce website geared towards helping Mary sell her baked goods. Users have the ability to submit orders as well as see product availability, pricing and rating. 
     <br />
     <a href="https://github.com/rs8799/MarysBakery"><strong>Explore the docs »</strong></a>
     <br />
