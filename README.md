@@ -34,10 +34,10 @@
     <img src="/public/Marysbakinglogoremovebg.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Marys Baking</h3>
+  <h3 align="center">Mary's Baking</h3>
 
   <p align="center">
-    Baking Excellence
+    A e-commerce website geared towards helping Mary sell her baked goods. Users have the ability to submit orders as well as see product availability, pricing and rating. 
     <br />
     <a href="https://github.com/rs8799/MarysBakery"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,16 +85,6 @@
 
 [![Mary's Bakery](public/screenshot.png)](https://marys-bakery.vercel.app)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,12 +96,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,6 +239,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[MongoDB]: https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=controlhterms&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core-high-int_prosp-brand_gic-null_amers-ca_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=19616985274&adgroup=146373896140&cq_cmp=19616985274&gad=1&gclid=EAIaIQobChMI8dWZze3xgQMVokRHAR2eLAhuEAAYASAAEgLm9fD_BwE
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
