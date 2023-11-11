@@ -1,6 +1,5 @@
 import React from "react"
 import Link from "next/link"; 
-import clientPromise from "../lib/mongodb";
 
 
 export default function Card(props) {
@@ -27,21 +26,5 @@ export default function Card(props) {
         </div>
         </Link>
     )
-}
+} 
 
-export async function getServerSideProps() {
-    try {
-        const client = await clientPromise;
-        const db = client.db("MarysBaking");
-
-        const movies = await db
-            .collection("Marys baking reviews")
-            
-
-        return {
-            props: { movies: JSON.parse(JSON.stringify(movies)) },
-        };
-    } catch (e) {
-        console.error(e);
-    }
-}
