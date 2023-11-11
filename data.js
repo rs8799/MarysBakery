@@ -1,4 +1,4 @@
-export default [
+const cakes = [
     {
         id: 1,
         title: "Chocolate Cake",
@@ -96,3 +96,6 @@ export default [
         openSpots: 4
     },
 ]
+
+const gfg = JSON.stringify(cakes);
+console.log(cakes);
